@@ -15,4 +15,4 @@
   modify port, url, username(db id), password(db password) and jwt(secret)
 
 ----  
-4. started Server
+3. started Server
