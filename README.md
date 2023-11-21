@@ -2,10 +2,17 @@
 
 ## start login and sign up
 1. code downloads
-  ```git clone ```
+  ```git clone https://github.com/choi-minsung/KU_MapServer.git```
+----
 2. connected DBRMS
   in terminal
   ```cd "Download directory"```
-  ```cd applicaiotn.yml```
-  modify dbport and IPaddress and jwt
-3. started Server
+
+
+  ```cd src/main/resources/application.yml```
+
+  
+  modify port, url, username(db id), password(db password) and jwt(secret)
+
+----  
+4. started Server
